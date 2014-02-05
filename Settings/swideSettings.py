@@ -1,0 +1,21 @@
+__author__ = 'Mark Anthony Pequeras'
+__software__ = 'Invictuz Online Game'
+__year__ = '2013'
+__python__ = '2.7'
+__developers__ = 'CoreSEC Software Development Group'
+
+# Start
+
+pythonpath = 'Settings/swidefiles/python.swide'
+completion = 'comletion.py'
+compiledpath = 'dist'
+compiledName = 'cache.exe'
+style = 'Settings/swidefiles/style.swide'
+codemodel = 'Settings/swidefiles/codemodel.swide'
+setup = 'Settings/swidefiles/setup.swide'
+setupFiles = 'Settings/swidefiles/setup'
+language = 'EN'
+langpath = 'Settings/swidefiles/langs'
+version = 'Settings/swidefiles/version.swide'
+newversion = 'Settings/swidefiles/newversion.swide'
+cachebuild = 'Settings/swidefiles/cachebuild.py'
